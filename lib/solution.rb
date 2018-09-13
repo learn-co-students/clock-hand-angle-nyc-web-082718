@@ -17,7 +17,6 @@ end
 # Each hr = 30 deg
 # Each min = 6 deg
 
-
 # get angle hr hand
 # get angle min hand
 # get mins % out of 60 => * 30 deg, add to hr hand
